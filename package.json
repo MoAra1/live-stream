@@ -36,6 +36,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^3.10.0",
     "@parcel/optimizer-data-url": "2.5.0",
+    "@parcel/package-manager": "2.8.1",
     "@parcel/transformer-inline-string": "2.5.0",
     "@types/http-proxy": "^1.17.9",
     "@types/jest": "^27.5.1",
